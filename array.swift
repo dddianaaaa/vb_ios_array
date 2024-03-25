@@ -13,7 +13,6 @@ var filteredArr2 : [Int] = numbers.sorted(by: { (s1: Int, s2: Int) -> Bool in
 print(filteredArr2)
 
 
-//не работает то что ниже не понял почему
 // func filterNames(_ names: [String]) -> [String]{
 //     var t = ""
 //     var filtered = names
